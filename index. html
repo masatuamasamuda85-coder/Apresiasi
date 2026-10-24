@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresiasi Diriku</title>
+</head>
+<body style="background:#f5e8ff; text-align:center; padding:40px; font-family:Arial;">
+
+    <h1>🌷 Untuk Diriku Sendiri</h1>
+
+    <p>Terima kasih, diriku, sudah berjuang sampai hari ini.</p>
+
+    <p>Aku bangga karena terus belajar dan memperbaiki diri.</p>
+
+    <button onclick="alert('Kamu sudah melakukan yang terbaik hari ini! 🤍')">
+        Pesan untuk Diriku
+    </button>
+
+</body>
+</html>
